@@ -2,7 +2,7 @@
 import { clientId } from './config'
 let accessToken;
 
-const redirectUri = "https://pataguado.github.io/JamList/";
+const redirectUri = "http://jamlist.surge.sh";
 
 
 
