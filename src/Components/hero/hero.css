@@ -1,0 +1,7 @@
+.heroes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5rem;
+    margin-bottom: 6.33rem;
+}
