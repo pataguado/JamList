@@ -2,7 +2,7 @@
 import { clientId } from './config'
 let accessToken;
 
-const redirectUri = "http://localhost:3000";
+const redirectUri = "https://pataguado.github.io/JamList/";
 
 
 
