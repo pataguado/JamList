@@ -4,6 +4,7 @@ This project was build with React using the Spotify API to fetch data. You can c
 ## How to run
 
 Just follow the link and signIn in your Spotify account.
+http://jamlist.surge.sh
 
 ## Thinks to improve
 Listen to the tracks before you add them.
